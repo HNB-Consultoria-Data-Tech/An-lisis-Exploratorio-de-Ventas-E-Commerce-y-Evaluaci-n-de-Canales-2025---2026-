@@ -48,7 +48,8 @@ La dirección general y el área comercial de la empresa enfrentaban los siguien
 
 ## 👨‍💼 Autor
 **HNB Consultoría Data & Tech**
-* **Contacto / LinkedIn:** [Jose Alfredo Gonzalez Neri](https://www.linkedin.com/in/alfredogneri)
+* **Contacto / LinkedIn:** [Jose Alfredo Gonzalez Neri](https://www.linkedin.com/in/jose-alfredo-gonzalez-neri/?isSelfProfile=true)
+* **Rol:** Director Comercial & Desarrollo de Negocio
 * **Especialidad:** Business Intelligence · Data Analytics · Estrategia Comercial · Tech Consulting
 
 ## 📄 Licencia
